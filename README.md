@@ -3,7 +3,7 @@
         
         🌎 Estudiante avanzado de la Lic. en Geografia. 
     
-        🤖 Ingresante de la carrera de Lic. en Sistemas.
+        🤖 Ingresante de la Lic. en Sistemas.
         
         💻 Busco Especializarme en cartografia, relacionada a Sistemas de Informacion Geografica y Bases de Datos. 
 </div>
