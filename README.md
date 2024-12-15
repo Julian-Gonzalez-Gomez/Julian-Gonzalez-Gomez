@@ -8,5 +8,5 @@
         💻 Busco Especializarme en cartografia, relacionada a Sistemas de Informacion Geografica y Bases de Datos. 
 </div>
 <div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFkNTMxM3Z4bWxtaXU0aWhoNHMxOW0zZXVkcXE2cXRhMG8zazBwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQqOXTBwXDSPyWEA3I/giphy.webp" alt="Dune" width=1080 height=540/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFkNTMxM3Z4bWxtaXU0aWhoNHMxOW0zZXVkcXE2cXRhMG8zazBwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQqOXTBwXDSPyWEA3I/giphy.webp" alt="Dune" width=1080 height=300/>
 </div>
