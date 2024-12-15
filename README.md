@@ -1,7 +1,7 @@
 <div align="center">
     <h2>🗺 Julian Gonzalez Gomez 🗺 </h2>
         
-        🌎 Estudiante avanzado de la Lic. y el Prof. de Geografia. 
+        🌎 Estudiante avanzado de la Lic. en Geografia. 
     
         🤖 Ingresante de la carrera de Lic. en Sistemas.
         
